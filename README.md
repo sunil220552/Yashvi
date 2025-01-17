@@ -1,7 +1,7 @@
 # Yashvi
 This repository chronicles my journey in mastering machine learning, a vast and multifaceted field.
 
-With over a decade of software engineering experience, I will curate my learning path, selecting readings and projects that align with my goals. This README will document my decisions and progress.
+With over a decade of software engineering experience, I will curate my learning path, selecting readings and projects that align with my goals. This README will document my decisions and progress. I aspisre to invest 10-15 hrs a week for this project. 
 
 ## [Building Micrograd](Building_Micrograd)
 
