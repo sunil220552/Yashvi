@@ -14,3 +14,15 @@ Micrograd delves into the intricacies of backpropagation.
 After Micrograd, the next logical step might be to explore [The spelled-out intro to language modeling: building makemore](https://youtu.be/PaCmpygFfXo?si=0P3tMmIL90n7jvrL).
 
 However, I feel the need to focus on practicing neural networks and engaging in practical projects. Therefore, instead of makemore, I plan to spend a few days studying PyTorch and undertaking a domain-specific deep learning course.
+
+
+## TODOs 
+##### Reading list
+* What is the difference between torch.tensor and torch.Tensor ? 
+
+##### Notes TODO 
+* Create a note on Linear Algebra / Inner and Outer product 
+* Create a note on PyTorch / Tensor on a device (CPU, CUDA, MPS)
+* Create a note on PyTorch / Indexing ( Integer and list )
+* Create a note on PyTorch / Broadcasting
+* Create a note on PyTorch / Vectorization ( Use )
