@@ -3,7 +3,7 @@ This repository chronicles my journey in mastering machine learning, a vast and 
 
 With over a decade of software engineering experience, I will curate my learning path, selecting readings and projects that align with my goals. This README will document my decisions and progress. I aspisre to invest 10-15 hrs a week for this project. 
 
-## [Building Micrograd](Building_Micrograd)
+1. [Building Micrograd](Building_Micrograd)
 
 These notes are inspired by Andrej Karpathy's [lecture](https://youtu.be/VMj-3S1tku0?si=EEvw2IrjMnSUlarf) on building Micrograd. Special thanks to Andrej Karpathy for sharing this resource.
 
@@ -21,7 +21,6 @@ However, I feel the need to focus on practicing neural networks and engaging in 
 * What is the difference between torch.tensor and torch.Tensor ? 
 
 ##### Notes TODO 
-* Create a note on Linear Algebra / Inner and Outer product 
 * Create a note on PyTorch / Tensor on a device (CPU, CUDA, MPS)
 * Create a note on PyTorch / Indexing ( Integer and list )
 * Create a note on PyTorch / Broadcasting
